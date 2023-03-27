@@ -427,7 +427,7 @@
         <footer>
             <p>Powered by</p>
             <p><a href="https://zksync.io"><img src="images/logo-dark.svg" width="200em"/></a></p>
-            <p><a class="source-link" target="_blanc" href="https://github.com/matter-labs/zksync-link">Source code on Github</a></p>
+            
         </footer>
     </form>
 </main>
