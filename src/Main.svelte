@@ -427,7 +427,6 @@
         <footer>
             <p>Powered by</p>
             <p><a href="https://zksync.io"><img src="images/logo-dark.svg" width="200em"/></a></p>
-            
-        </footer>
+                    </footer>
     </form>
 </main>
